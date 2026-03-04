@@ -13,30 +13,27 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+             I am a passionate and dedicated Web Developer who enjoys turning ideas into clean, responsive, and user-friendly websites. I specialize in building modern web applications that focus on performance, design, and real-world usability.
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Strong hands-on experience in HTML, CSS, JavaScript,{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — and  React.js, Node.js, Express.js, and MongoDB I enjoy working across both backend and frontend stacks.
               <br />
               <br />
-              My key areas of interest include developing
+              Comfortable working on both Frontend and Backend (Full-Stack Development)
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications,and exploring new ways  {" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              Experienced in building complete, scalable web applications
               <br />
               <br />
               Whenever possible, I love building projects with
@@ -45,6 +42,8 @@ function Home2() {
                 <b className="purple">React.js</b> and{" "}
                 <b className="purple">Next.js</b>.
               </i>
+              <br />
+             
             </p>
           </Col>
           <Col md={4} className="myAvtar">
